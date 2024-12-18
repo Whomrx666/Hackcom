@@ -26,6 +26,11 @@ $ bash Hackcom.sh
 - **Fifth**: After everything is entered correctly according to points three and four, the tools will connect the ports to each other.
 - **last**: and yes congratulations, you can communicate safely with fellow hackers
 
+## To check our IP address
+```
+$ ifconfig
+```
+
 ## Security features
 - **UNENCRYPTED**: That is, chat without a password to enter and low level security
 - **ENCRYPTED**: That is, using a password and the password will only be known to the listener before being shared with the sender and has a high level of security
