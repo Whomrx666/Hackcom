@@ -12,7 +12,7 @@ sudo apt install cryptcat -y
 ## Instalations
 ```
 $ apt update -y && apt upgrade -y
-$ pkg install git
+$ apt install git
 $ git clone https://github.com/Whomrx666/Hackcom.git
 $ cd Hackcom
 $ bash Hackcom.sh
